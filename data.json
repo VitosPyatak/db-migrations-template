@@ -1,0 +1,9 @@
+{
+  "isInitialized": true,
+  "migrations": [
+    {
+      "isAlreadyRun": true,
+      "id": "migration"
+    }
+  ]
+}

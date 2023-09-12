@@ -1,0 +1,21 @@
+{
+  "name": "migrations-template",
+  "version": "1.0.0",
+  "description": "Template for ejob DynamoDB migrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -v",
+    "build": "tsc",
+    "start": "npm run build && node .build/app.js"
+  },
+  "author": "Vic",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^20.6.0",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
